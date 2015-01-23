@@ -5,6 +5,7 @@ Learning Plan
 - CSS and front end CSS frameworks
 - JavaScript
 - Node
+- SQL
 
 ##Books I'm planning to read
 

@@ -18,6 +18,7 @@ Learning Plan
 
 - complete Code Academy Javascript
 - complete everything in http://nodeschool.io/
+- build online resume
 
 - I've always been a little obsessed with hearing every word in the english language spoken at the same time. In fact I'm pretty interested in the entire idea of information comming at you so fast that it's incomprehensible. Someday, I'd like to put together an entire art show of things that examine this topic - for example, 
   - a program that layers every instagram picture taken that day on top of the other (very opaquely) and, at the end     of the day, it prints the single picture out on a large canvas. 
